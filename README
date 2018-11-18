@@ -10,3 +10,5 @@ http://localhost:8080/resume?sources=F:%5Ctmp%5CMyContent1.properties,F:%5Ctmp%5
 качестве разделителя.
 2. для добавления ассоциативного массива воспользуйтесь следующей формой:
 ИМЯ_ПОЛЯ = KEY:VALUE,KEY:VALUE,KEY:VALUE, ... ,KEY:VALUE
+
+В корне проекта лежит два файла properties для теста функционирование приложения: MyContent{NUMBER}.properties.
